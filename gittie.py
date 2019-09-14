@@ -5,3 +5,6 @@ introduce()
 
 def joke():
     print("Morawiecki tu byl")
+
+def add(a, b):
+    return a+b
